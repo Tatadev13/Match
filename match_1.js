@@ -27,11 +27,11 @@ imgSrc:'./Pictures/Tennis.jpg'
 },
 {
 name : 'baseball',
-imgSrc:'./Pictures/baseball.webp'
+imgSrc:'./Pictures/baseball.jpg'
 },
 {
 name : 'baseball',
-imgSrc:'./Pictures/baseball.webp'
+imgSrc:'./Pictures/baseball.jpg'
 },
 {
 name : 'football',
